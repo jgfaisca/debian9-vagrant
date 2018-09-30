@@ -1,5 +1,9 @@
 # debian9-generic
-Debian 9 / Vagrant
+Debian 9 generic VM
+
+### Depencencies
+Vagrant
+VirtualBox
 
 ### Start VM
 ```
