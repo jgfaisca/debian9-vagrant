@@ -29,4 +29,4 @@ $ vagrant destroy
 ```
 
 ### VM sync 
-The host *sync* folder synchronize with VM *sync* folder
+The host **sync** folder synchronize with VM **sync** folder
