@@ -2,7 +2,7 @@
 Debian 9 generic VM
 
 ### Depencencies
-Vagrant
+Vagrant<br>
 VirtualBox
 
 ### Start VM
