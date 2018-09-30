@@ -2,8 +2,8 @@
 Debian 9 generic VM
 
 ### Depencencies
-Vagrant<br>
-VirtualBox
+[Vagrant](https://www.vagrantup.com/downloads.html) <br>
+[VirtualBox](https://www.virtualbox.org/wiki/Downloads) <br>
 
 ### Start VM
 ```
