@@ -1,4 +1,4 @@
-# debian9-generic
+# debian9-vagrant
 Debian 9 generic VM
 
 ### Depencencies
